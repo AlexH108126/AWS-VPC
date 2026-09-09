@@ -13,4 +13,4 @@ A project-based AWS Virtual Private Cloud demonstrating subnetting, routing and 
 * Click 'create subnet'
 * In the VPC ID dropdown, select your VPC (VPClab01)
 * under subnet settings,
-*   give it a name (labPublicSubnet01) Availability zone option is preference
+  * give it a name (labPublicSubnet01) Availability zone option is preference
