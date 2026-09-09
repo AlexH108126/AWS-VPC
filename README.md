@@ -1,2 +1,3 @@
 # AWS-VPC
-Setting up an AWS Virtual Private Cloud
+A project-based AWS Virtual Private Cloud demonstrating subnetting, routing and security fundamentals. 
+
